@@ -1,3 +1,5 @@
+! Main program to perform the simulation of the Ru to Os energy transfer
+!
 PROGRAM M_One_Main
 
   implicit none
