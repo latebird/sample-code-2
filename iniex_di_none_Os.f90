@@ -1,3 +1,4 @@
+! Return the index of the Os.
 subroutine iniex_di_none_Os(lengthmof,num_Os,num_excite,m,inexidx)
 
 implicit none
