@@ -1,3 +1,4 @@
+! helper subroutine to check it whether is a Ru or Os near by a target site.
 subroutine checksite(n, num_Os, m, site, iflag)
 
  implicit none
