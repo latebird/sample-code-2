@@ -1,3 +1,4 @@
+! return the intial excited state population on the Ru an Os sites
 SUBROUTINE initial_di(n, num_ex, C0)
 
 IMPLICIT NONE
