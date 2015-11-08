@@ -1,3 +1,5 @@
+
+! Return the Os site index in the MOF
 subroutine Os_distri(lengthmof, num_Os, m)
 
 
