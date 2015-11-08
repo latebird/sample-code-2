@@ -1,3 +1,7 @@
+
+! Compute the ratematrix for the 1D mof, the input for this subrountine include the number of Os and Ru site
+! and the number of total site and the hopping rate between Ru and Os.
+
 subroutine RateMatrixauto(lengthmof,transitionRate, SsiteRate, num_Os, m, K)
 
   IMPLICIT NONE
