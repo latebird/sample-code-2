@@ -1,3 +1,4 @@
+! This subroutine return the ratematrix for solving the energy transfer kintics in the master equation.
 Subroutine RateContMartix(lengthmof, kRuhop, kRuDecay,kOshop,kOsDecay,kOsTrap, &
                           kOsUntrap,Atp,num_Os, m, K)
 
