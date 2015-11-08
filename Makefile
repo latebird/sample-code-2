@@ -1,5 +1,5 @@
 #
-#
+# Make file to compiler the codes
     FC = gfortran
 #
     MYFLAG = -O2 -fdefault-real-8
