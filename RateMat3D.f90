@@ -1,3 +1,7 @@
+! Return the ratematix for a 3 dimentioan mof, The input of this subroutine is the postion of Ru and Os, 
+! and the number of Ru and Os, the element energy transfer rates and  the total number of sites and the 
+! length of the cubic of the 3D mof 
+
 subroutine RateMat3D(n,num_Os_1d,transitionRate,SsiteRate,SingleRate,Os_idx,K)
 
    implicit none
